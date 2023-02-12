@@ -1,0 +1,15 @@
+{
+	
+	"client": {
+    "clientId": "YOUR CLIENT ID HERE",
+	"guildId": "YOUR GUILD ID HERE",
+	"token": "YOUR TOKEN HERE",
+	"prefix": "/"
+	},
+	"mysql": {
+		"host": "localhost",
+		"user": "root",
+		"password": "",
+		"database": "gangapp"
+	}
+}
